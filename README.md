@@ -2,6 +2,6 @@
 
 [![Willium1925's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willium1925)](https://github.com/Willium1925/github-readme-stats)
 
-<img src="https://github-readme-stats-git-master-Willium1925-projects.vercel.app/api/top-langs/?username=Willium1925&count_private=true&layout=compact&hide=html,css&langs_count=14"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willium1925&count_private=true&layout=compact&hide=html,css&langs_count=14"/>
 
 <img width="165" height="165" alt="5186847bfdeef20a62815049193ebd50_waifu2x_art_noise1_scale" src="https://github.com/user-attachments/assets/29294556-839b-4afb-8cbe-996bceba7214" />

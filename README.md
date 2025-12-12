@@ -13,7 +13,7 @@
 
   <div align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/Willium1925/Picture/blob/main/12543854_p0_master1200.jpg?raw=true" height="340" style="border-radius: 10px;" />
+    <img src="https://github.com/Willium1925/Picture/blob/main/12543854_p0_master1200.jpg?raw=true" height="150" style="border-radius: 10px;" />
     <br/>
     <div style="margin-top: 5px; margin-left: 20px;">
       🎨 <a href="你的繪師連結">繪師</a>

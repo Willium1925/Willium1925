@@ -11,7 +11,7 @@
     </a>
   </div>
 
-  <div align="left" style="display: inline-block;">
+  <div align="right" style="display: inline-block;">
     <img src="https://github.com/Willium1925/Picture/blob/main/12543854_p0_master1200.jpg?raw=true" height="150" style="border-radius: 10px;" />
     <br/>
     <div style="margin-top: 5px;">

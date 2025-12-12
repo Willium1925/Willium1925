@@ -1,5 +1,5 @@
 <div align="center">
-  <div align="left" style="display: inline-block; margin-right: 20px;">
+  <div align="left" style="display: inline-block;">
     <a href="https://github.com/Willium1925/github-readme-stats">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Willium1925&layout=compact&theme=material-palenight&count_private=true" alt="Top Langs" />
     </a>

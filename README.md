@@ -8,7 +8,7 @@
 
 <!-- [![Willium1925's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willium1925)](https://github.com/Willium1925/github-readme-stats) -->
 
-[![Willium1925's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Willium1925&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&card_width=400)](https://github.com/Willium1925/github-readme-stats)
+[![Willium1925's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Willium1925&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&card_width=80%)](https://github.com/Willium1925/github-readme-stats)
 
 <!-- https://github-readme-stats-eight-theta.vercel.app/api?username=CompEng0001&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true -->
 

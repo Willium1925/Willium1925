@@ -1,5 +1,3 @@
-<div style="clear: both;"></div>
-
 <div align="center">
   <div align="left" style="display: inline-block; margin-right: 20px;">
     <a href="https://github.com/Willium1925/github-readme-stats">
@@ -21,5 +19,3 @@
     </div>
   </div>
 </div>
-
-<br clear="all" />

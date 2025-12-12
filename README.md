@@ -18,7 +18,7 @@
   <div style="flex: 0 0 260px; text-align: center; min-width: 260px; margin-left: 20px;">
     <img 
       src="https://github.com/Willium1925/Picture/blob/main/12543854_p0_master1200.jpg" 
-      style="height: 280px; display: block; margin: 0 auto;"
+      style="height: 200px; display: block; margin: 0 auto;"
     />
     <div style="margin-top: 10px;">
       🎨 <a href="你的繪師連結">繪師</a>　　🎵 <a href="你的曲師連結">曲</a>

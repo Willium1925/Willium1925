@@ -14,9 +14,9 @@
         <img src="https://github.com/Willium1925/Picture/blob/main/12543854_p0_master1200.jpg?raw=true" width="100%" style="border-radius: 10px;" />
         <br/>
         <div style="margin-top: 5px;">
-          🎨 <a href="[繪師連結](https://www.plurk.com/CATGIRL0926)">catgirl0926</a>
+          🎨 <a href="https://www.plurk.com/CATGIRL0926">catgirl0926</a>
           &nbsp;&nbsp;
-          🎵 <a href="[曲目](https://www.youtube.com/watch?v=QvGLt5CUBVo&list=LL&index=1)">冨田悠斗</a>
+          🎵 <a href="https://www.youtube.com/watch?v=QvGLt5CUBVo">冨田悠斗</a>
         </div>
       </div>
     </td>

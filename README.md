@@ -13,3 +13,37 @@
 <!-- https://github-readme-stats-eight-theta.vercel.app/api?username=CompEng0001&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true -->
 
 
+<table>
+  <tr>
+    <td>
+      
+      <!-- Top Langs -->
+      <a href="https://github.com/Willium1925/github-readme-stats">
+        <img 
+          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Willium1925&layout=compact&theme=material-palenight&count_private=true"
+          />
+      </a>
+
+      <!-- GitHub stats -->
+      <a href="https://github.com/Willium1925/github-readme-stats">
+        <img 
+          src="https://github-readme-stats-eight-theta.vercel.app/api?username=Willium1925&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&card_width=400px"
+        />
+      </a>
+
+    </td>
+    
+    <!-- 右側圖片 -->
+    <td width="40%" align="center">
+      <img 
+        src="https://github.com/user-attachments/assets/29294556-839b-4afb-8cbe-996bceba7214" 
+        width="250"
+      />
+
+      <br/>
+
+      🎨 <a href="你的繪師連結">繪師</a>  
+      🎵 <a href="你的曲師連結">曲</a>
+    </td>
+  </tr>
+</table>
